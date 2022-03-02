@@ -99,6 +99,7 @@ public class MainClass {
         writer.write(CollUtil.newArrayList(duplicateSchoolAndClass));
         writer.close();
         System.out.println("test");
+        System.out.println("朱阿敏");
     }
 
 }
