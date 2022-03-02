@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.leo.dao.PrimaryStudentMapper">
+    <resultMap id="primaryStudent" type="com.leo.entity.PrimaryStudent">
+        <id property="id" column="id"/>
+        <result property="classInfo" column="class_info"/>
+        <result property="name" column="name"/>
+        <result property="phone" column="phone"/>
+        <result property="sex" column="sex"/>
+        <result property="school" column="school"/>
+    </resultMap>
+
+    <select id="getPrimaryStudent" resultMap="primaryStudent">
+        select * from student_info;
+    </select>
+</mapper>

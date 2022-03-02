@@ -1,0 +1,6203 @@
+{
+	"南京市钟英中学": {
+		"class7": {
+			"南京市师范附属小学": {
+				"class5": 2,
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class3": 2,
+				"class2": 2,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class6": 2,
+				"class4": 1,
+				"class3": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 1,
+				"class2": 1
+			},
+			"南京市芳草园小学": {
+				"class5": 2,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市力学小学": {
+				"class7": 3,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class2": 1,
+				"class10": 1,
+				"class1": 2,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class5": 2,
+				"class3": 3,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 2
+			}
+		},
+		"class6": {
+			"南京市师范附属小学": {
+				"class5": 1,
+				"class4": 1,
+				"class10": 2
+			},
+			"南京市琅琊路小学": {
+				"class5": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 2
+			},
+			"南京市长江路小学": {
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市赤壁路小学": {
+				"class4": 1,
+				"class1": 1,
+				"class10": 2,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class3": 2,
+				"class2": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 2
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 2,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class4": 1,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 3
+			}
+		},
+		"class5": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市力学小学": {
+				"class2": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class4": 1,
+				"class3": 1,
+				"class10": 2
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 2,
+				"class3": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 2,
+				"class5": 2,
+				"class2": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 3,
+				"class6": 1,
+				"class5": 1
+			}
+		},
+		"class4": {
+			"南京市师范附属小学": {
+				"class7": 2,
+				"class6": 1,
+				"class4": 1,
+				"class3": 2,
+				"class1": 2,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class5": 3,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class4": 2,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class4": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class3": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 2,
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 2,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class2": 1,
+				"class1": 1
+			}
+		},
+		"class3": {
+			"南京市师范附属小学": {
+				"class5": 1,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class5": 1,
+				"class2": 1,
+				"class10": 3
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 2
+			},
+			"南京市长江路小学": {
+				"class7": 2,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class4": 1,
+				"class3": 2,
+				"class2": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 2,
+				"class4": 1,
+				"class3": 2,
+				"class1": 1,
+				"class10": 2,
+				"class9": 1,
+				"class8": 5
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 2,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 2,
+				"class5": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class5": 1
+			}
+		},
+		"class2": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class10": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class3": 1,
+				"class1": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class5": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class3": 2
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 1,
+				"class4": 2,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class5": 2,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class3": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class5": 3,
+				"class10": 1
+			}
+		},
+		"class10": {
+			"南京市师范附属小学": {
+				"class7": 2,
+				"class5": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class4": 1,
+				"class2": 1,
+				"class9": 2
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class4": 2,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class4": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 2,
+				"class2": 2,
+				"class10": 2,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class4": 1,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市拉萨路小学": {
+				"class4": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class10": 1,
+				"class9": 1
+			}
+		},
+		"class1": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市琅琊路小学": {
+				"class2": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class3": 2,
+				"class2": 1
+			},
+			"南京市长江路小学": {
+				"class4": 2,
+				"class2": 3,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 2,
+				"class6": 2,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class5": 1,
+				"class2": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 2
+			},
+			"南京市南外仙林小学": {
+				"class7": 2,
+				"class6": 1,
+				"class5": 1,
+				"class1": 1,
+				"class10": 2,
+				"class9": 2
+			}
+		},
+		"class9": {
+			"南京市师范附属小学": {
+				"class2": 1,
+				"class1": 2,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class8": 3
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class2": 2,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class3": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class3": 3,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class4": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			}
+		},
+		"class8": {
+			"南京市师范附属小学": {
+				"class4": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 2,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 2,
+				"class4": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class4": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市芳草园小学": {
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 2,
+				"class9": 2,
+				"class8": 2
+			},
+			"南京市拉萨路小学": {
+				"class7": 2,
+				"class3": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class5": 2,
+				"class3": 1,
+				"class1": 1,
+				"class9": 1
+			}
+		}
+	},
+	"南京郑和外国语学校": {
+		"class7": {
+			"南京市师范附属小学": {
+				"class7": 4,
+				"class5": 2,
+				"class2": 2
+			},
+			"南京市琅琊路小学": {
+				"class5": 1,
+				"class2": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class1": 2
+			},
+			"南京市长江路小学": {
+				"class4": 2,
+				"class9": 2
+			},
+			"南京市芳草园小学": {
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 2,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class3": 1,
+				"class9": 2,
+				"class8": 2
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class3": 1,
+				"class10": 2,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class1": 2
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			}
+		},
+		"class6": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class4": 2,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class5": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市长江路小学": {
+				"class5": 2,
+				"class3": 1,
+				"class2": 2
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 2,
+				"class5": 1,
+				"class10": 2
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 1,
+				"class2": 1,
+				"class1": 4,
+				"class9": 2
+			},
+			"南京市拉萨路小学": {
+				"class4": 2,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			}
+		},
+		"class5": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class4": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 3,
+				"class5": 1,
+				"class4": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class5": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class10": 2
+			},
+			"南京市赤壁路小学": {
+				"class7": 2,
+				"class6": 3,
+				"class5": 1,
+				"class2": 1,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class5": 2,
+				"class3": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class2": 1,
+				"class10": 1,
+				"class8": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 1
+			}
+		},
+		"class4": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 2,
+				"class5": 3,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class3": 2,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class3": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class4": 2,
+				"class2": 1,
+				"class9": 2
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class4": 1,
+				"class9": 2
+			},
+			"南京市拉萨路小学": {
+				"class6": 2,
+				"class4": 2,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class4": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 2
+			},
+			"南京市南外仙林小学": {
+				"class4": 1,
+				"class1": 1
+			}
+		},
+		"class3": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class5": 2,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class4": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class6": 2,
+				"class5": 2,
+				"class4": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class2": 1,
+				"class10": 3,
+				"class9": 3
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class5": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class3": 1,
+				"class2": 1,
+				"class1": 2,
+				"class10": 1
+			},
+			"南京市拉萨路小学": {
+				"class5": 2,
+				"class4": 1,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市南外仙林小学": {
+				"class7": 2,
+				"class5": 1,
+				"class8": 1
+			}
+		},
+		"class2": {
+			"南京市师范附属小学": {
+				"class3": 3,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 2,
+				"class6": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 2,
+				"class5": 2,
+				"class3": 2,
+				"class1": 1,
+				"class10": 2,
+				"class8": 3
+			},
+			"南京市长江路小学": {
+				"class4": 2,
+				"class3": 1,
+				"class2": 1,
+				"class10": 2,
+				"class8": 2
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class4": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class5": 2,
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 2,
+				"class5": 1,
+				"class2": 1
+			},
+			"南京市拉萨路小学": {
+				"class3": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 2,
+				"class5": 1,
+				"class3": 1
+			}
+		},
+		"class10": {
+			"南京市师范附属小学": {
+				"class6": 2,
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 2,
+				"class3": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class3": 1,
+				"class2": 2,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class4": 2,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 1,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 2
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 3,
+				"class2": 1,
+				"class1": 2
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class5": 2,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class8": 1
+			}
+		},
+		"class1": {
+			"南京市师范附属小学": {
+				"class4": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class7": 2,
+				"class6": 2,
+				"class2": 1
+			},
+			"南京市赤壁路小学": {
+				"class4": 3,
+				"class8": 2
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class8": 2
+			},
+			"南京市力学小学": {
+				"class6": 3,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class4": 3,
+				"class2": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 2,
+				"class4": 2,
+				"class3": 2,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class3": 1,
+				"class2": 1,
+				"class1": 2
+			}
+		},
+		"class9": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class4": 1,
+				"class2": 2,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class8": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 1,
+				"class3": 2
+			},
+			"南京市力学小学": {
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class2": 2,
+				"class10": 1,
+				"class9": 2,
+				"class8": 2
+			},
+			"南京市拉萨路小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class4": 1,
+				"class10": 3
+			},
+			"南京市南外仙林小学": {
+				"class6": 2,
+				"class5": 1,
+				"class3": 1
+			}
+		},
+		"class8": {
+			"南京市师范附属小学": {
+				"class5": 2,
+				"class4": 1,
+				"class9": 1,
+				"class8": 4
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 1,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class3": 1,
+				"class2": 2,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 3,
+				"class6": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市雨花外国语小学": {
+				"class4": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class4": 1,
+				"class3": 1,
+				"class1": 2,
+				"class8": 2
+			}
+		}
+	},
+	"南京市第二十九中学": {
+		"class7": {
+			"南京市师范附属小学": {
+				"class4": 1,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class5": 1,
+				"class2": 1,
+				"class1": 2,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class5": 2,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 2,
+				"class5": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class4": 2,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 2,
+				"class6": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class4": 1,
+				"class1": 3,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class6": 1,
+				"class3": 1,
+				"class2": 2,
+				"class9": 1
+			}
+		},
+		"class6": {
+			"南京市师范附属小学": {
+				"class5": 2,
+				"class4": 2,
+				"class3": 1,
+				"class9": 2
+			},
+			"南京市琅琊路小学": {
+				"class5": 1,
+				"class3": 2,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class3": 2,
+				"class2": 1
+			},
+			"南京市长江路小学": {
+				"class10": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class4": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 2,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class3": 2,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 2,
+				"class4": 1
+			},
+			"南京市雨花外国语小学": {
+				"class4": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class3": 1,
+				"class1": 1,
+				"class9": 2,
+				"class8": 3
+			}
+		},
+		"class5": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class5": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class1": 2,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class5": 1,
+				"class1": 1
+			},
+			"南京市长江路小学": {
+				"class6": 5,
+				"class4": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class5": 3,
+				"class2": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class3": 1,
+				"class1": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class10": 1,
+				"class8": 2
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class10": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class10": 3,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			}
+		},
+		"class4": {
+			"南京市师范附属小学": {
+				"class7": 2,
+				"class6": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class4": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class2": 1,
+				"class9": 2
+			},
+			"南京市赤壁路小学": {
+				"class6": 2,
+				"class5": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 1,
+				"class10": 2,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class10": 2,
+				"class1": 1
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class2": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class4": 2
+			}
+		},
+		"class3": {
+			"南京市师范附属小学": {
+				"class4": 1,
+				"class3": 2,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class10": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class4": 2,
+				"class2": 1,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class5": 2,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 4,
+				"class3": 1,
+				"class2": 2,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 2,
+				"class5": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class5": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class4": 1,
+				"class2": 1
+			}
+		},
+		"class2": {
+			"南京市师范附属小学": {
+				"class3": 1,
+				"class2": 2,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 3,
+				"class5": 3,
+				"class3": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class3": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 2,
+				"class4": 1,
+				"class3": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class5": 2,
+				"class8": 2
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 2,
+				"class1": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class8": 1
+			}
+		},
+		"class10": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 2,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 2,
+				"class6": 1,
+				"class4": 1,
+				"class3": 2,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class3": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class10": 3,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 2,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 2,
+				"class4": 2,
+				"class3": 1,
+				"class1": 1
+			},
+			"南京市拉萨路小学": {
+				"class3": 2,
+				"class10": 1
+			},
+			"南京市雨花外国语小学": {
+				"class4": 1,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class1": 2,
+				"class10": 1
+			}
+		},
+		"class1": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class5": 1,
+				"class4": 1,
+				"class1": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class2": 1,
+				"class1": 2,
+				"class10": 2
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class1": 1,
+				"class8": 2
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class3": 2,
+				"class9": 2,
+				"class8": 2
+			},
+			"南京市力学小学": {
+				"class7": 3,
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class5": 2,
+				"class1": 1
+			},
+			"南京市雨花外国语小学": {
+				"class4": 1,
+				"class3": 3,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class3": 1,
+				"class10": 1
+			}
+		},
+		"class9": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class3": 2,
+				"class2": 2,
+				"class1": 1
+			},
+			"南京市长江路小学": {
+				"class2": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 2,
+				"class5": 2,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 2,
+				"class5": 1,
+				"class4": 2,
+				"class3": 1,
+				"class2": 2,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class1": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 1,
+				"class3": 2,
+				"class8": 2
+			},
+			"南京市南外仙林小学": {
+				"class4": 1,
+				"class2": 1,
+				"class9": 1
+			}
+		},
+		"class8": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class2": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 2,
+				"class5": 1,
+				"class4": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class1": 1,
+				"class8": 3
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 2,
+				"class8": 2
+			},
+			"南京市芳草园小学": {
+				"class5": 1,
+				"class1": 1,
+				"class10": 3
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class3": 1,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class5": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			}
+		}
+	},
+	"南京玄武外国语学校": {
+		"class7": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class5": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class10": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class2": 1,
+				"class1": 2
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 2,
+				"class2": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class2": 1,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class4": 1,
+				"class3": 2,
+				"class2": 2,
+				"class1": 3
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class4": 2,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class4": 1,
+				"class3": 1,
+				"class2": 2,
+				"class10": 1,
+				"class9": 1
+			}
+		},
+		"class6": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class3": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class9": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 2,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class2": 2,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 3,
+				"class10": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 2,
+				"class10": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 2,
+				"class8": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class10": 1
+			}
+		},
+		"class5": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class5": 1,
+				"class10": 2,
+				"class9": 2,
+				"class8": 2
+			},
+			"南京市琅琊路小学": {
+				"class4": 2,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 2,
+				"class4": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class6": 4,
+				"class5": 1,
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class3": 2,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class4": 2,
+				"class10": 1
+			},
+			"南京市芳草园小学": {
+				"class5": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 2
+			},
+			"南京市雨花外国语小学": {
+				"class10": 2,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class4": 3,
+				"class3": 1
+			}
+		},
+		"class4": {
+			"南京市师范附属小学": {
+				"class6": 2,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class10": 2,
+				"class9": 2
+			},
+			"南京市琅琊路小学": {
+				"class3": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class4": 1,
+				"class10": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class3": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class2": 2
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 2
+			},
+			"南京市拉萨路小学": {
+				"class4": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 3,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			}
+		},
+		"class3": {
+			"南京市师范附属小学": {
+				"class7": 2,
+				"class5": 2,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 3,
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class1": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 2,
+				"class5": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class10": 2,
+				"class1": 3
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class9": 2
+			},
+			"南京市芳草园小学": {
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class4": 2,
+				"class3": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class3": 1,
+				"class2": 1,
+				"class1": 1
+			}
+		},
+		"class2": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class4": 1,
+				"class10": 1,
+				"class1": 1,
+				"class8": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 2
+			},
+			"南京市长江路小学": {
+				"class4": 2,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 2
+			},
+			"南京市芳草园小学": {
+				"class5": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class6": 2,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 2
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 1,
+				"class1": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class5": 1,
+				"class2": 1,
+				"class8": 1
+			}
+		},
+		"class10": {
+			"南京市师范附属小学": {
+				"class2": 2,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class5": 2,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class8": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 2,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class2": 2,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class5": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class3": 1,
+				"class2": 2,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class2": 1,
+				"class10": 3,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class4": 1,
+				"class1": 2
+			}
+		},
+		"class1": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 2,
+				"class2": 2,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 2,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 2,
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市长江路小学": {
+				"class4": 2,
+				"class2": 1,
+				"class10": 2
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class5": 2,
+				"class3": 1,
+				"class8": 2
+			},
+			"南京市芳草园小学": {
+				"class9": 3
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 2,
+				"class4": 1,
+				"class9": 1
+			}
+		},
+		"class9": {
+			"南京市师范附属小学": {
+				"class4": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 2,
+				"class5": 1,
+				"class3": 1,
+				"class2": 2,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class3": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class3": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class8": 2
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 3,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class4": 1,
+				"class3": 2,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class9": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class5": 2,
+				"class4": 2,
+				"class8": 1
+			}
+		},
+		"class8": {
+			"南京市师范附属小学": {
+				"class6": 1
+			},
+			"南京市琅琊路小学": {
+				"class3": 2,
+				"class1": 2,
+				"class9": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class3": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class3": 1,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class6": 1
+			},
+			"南京市力学小学": {
+				"class3": 2,
+				"class2": 2,
+				"class1": 2,
+				"class10": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class5": 2,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 2,
+				"class2": 2,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 2,
+				"class5": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class3": 1,
+				"class2": 3,
+				"class8": 2
+			}
+		}
+	},
+	"南京师范大学附属中学树人学校": {
+		"class7": {
+			"南京市师范附属小学": {
+				"class5": 2,
+				"class2": 2,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class4": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class4": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 2,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 2,
+				"class2": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 2,
+				"class5": 1,
+				"class4": 2,
+				"class2": 2
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class8": 2
+			},
+			"南京市雨花外国语小学": {
+				"class6": 2,
+				"class2": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			}
+		},
+		"class6": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 1,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class5": 2,
+				"class3": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 2,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 2,
+				"class4": 1,
+				"class3": 1,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 1,
+				"class3": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class2": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 3,
+				"class5": 2,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class6": 3,
+				"class3": 2,
+				"class1": 1,
+				"class8": 1
+			}
+		},
+		"class5": {
+			"南京市师范附属小学": {
+				"class4": 2,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class3": 4,
+				"class1": 3,
+				"class10": 1
+			},
+			"南京市赤壁路小学": {
+				"class3": 1,
+				"class1": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 2,
+				"class6": 2,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class5": 2,
+				"class1": 1,
+				"class8": 2
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 1,
+				"class2": 1,
+				"class8": 2
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class9": 1,
+				"class8": 1
+			}
+		},
+		"class4": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class3": 1,
+				"class2": 3,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class5": 2,
+				"class3": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市芳草园小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1
+			},
+			"南京市拉萨路小学": {
+				"class5": 1,
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市雨花外国语小学": {
+				"class2": 3,
+				"class10": 2,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class8": 1
+			}
+		},
+		"class3": {
+			"南京市师范附属小学": {
+				"class3": 1,
+				"class10": 3,
+				"class9": 2
+			},
+			"南京市琅琊路小学": {
+				"class7": 2,
+				"class6": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class4": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class5": 2,
+				"class4": 2,
+				"class2": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 2,
+				"class2": 2
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class8": 2
+			},
+			"南京市雨花外国语小学": {
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 2
+			}
+		},
+		"class2": {
+			"南京市师范附属小学": {
+				"class10": 2,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 3,
+				"class6": 1,
+				"class4": 2,
+				"class3": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class2": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class4": 2,
+				"class3": 1,
+				"class2": 1,
+				"class10": 2
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class4": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class4": 1,
+				"class2": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 2,
+				"class3": 1,
+				"class2": 1,
+				"class1": 2,
+				"class9": 1
+			}
+		},
+		"class10": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class6": 2,
+				"class10": 1,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class4": 2,
+				"class2": 2,
+				"class10": 2,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class4": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class4": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class5": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class3": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 2,
+				"class2": 1,
+				"class9": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class4": 2,
+				"class1": 1,
+				"class8": 1
+			}
+		},
+		"class1": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class5": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class8": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class10": 2,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class2": 3,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class5": 1,
+				"class2": 2,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class4": 1,
+				"class3": 1
+			},
+			"南京市芳草园小学": {
+				"class3": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 2,
+				"class5": 1,
+				"class2": 1,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class6": 1,
+				"class2": 1,
+				"class1": 2,
+				"class10": 2,
+				"class9": 1,
+				"class8": 1
+			}
+		},
+		"class9": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class3": 1,
+				"class2": 1
+			},
+			"南京市琅琊路小学": {
+				"class4": 1,
+				"class2": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 2,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class4": 2,
+				"class1": 2
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class5": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class2": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class4": 2,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市拉萨路小学": {
+				"class3": 2,
+				"class2": 2,
+				"class10": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class3": 2,
+				"class2": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class8": 2
+			}
+		},
+		"class8": {
+			"南京市师范附属小学": {
+				"class6": 2,
+				"class10": 2
+			},
+			"南京市琅琊路小学": {
+				"class4": 1,
+				"class3": 2,
+				"class8": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class3": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class4": 1,
+				"class10": 2
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 1,
+				"class1": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class3": 1,
+				"class2": 2
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class6": 2,
+				"class4": 1,
+				"class3": 3,
+				"class2": 1,
+				"class10": 2,
+				"class9": 1,
+				"class8": 1
+			}
+		}
+	},
+	"南京秦淮外国语学校": {
+		"class7": {
+			"南京市师范附属小学": {
+				"class2": 1
+			},
+			"南京市琅琊路小学": {
+				"class5": 1,
+				"class4": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 2,
+				"class5": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class7": 2,
+				"class6": 1,
+				"class5": 2,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class5": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 2
+			},
+			"南京市芳草园小学": {
+				"class5": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 2,
+				"class4": 1,
+				"class3": 1,
+				"class2": 4,
+				"class10": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class5": 2,
+				"class3": 1,
+				"class2": 1
+			},
+			"南京市南外仙林小学": {
+				"class4": 2,
+				"class2": 1,
+				"class10": 1
+			}
+		},
+		"class6": {
+			"南京市师范附属小学": {
+				"class5": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class5": 1,
+				"class10": 1,
+				"class9": 3
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 1,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class4": 1,
+				"class2": 1,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 1,
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 2,
+				"class4": 1,
+				"class10": 1
+			},
+			"南京市芳草园小学": {
+				"class4": 1,
+				"class2": 3,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class3": 1,
+				"class10": 1,
+				"class1": 2
+			},
+			"南京市雨花外国语小学": {
+				"class7": 2,
+				"class5": 1,
+				"class4": 1,
+				"class3": 2,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			}
+		},
+		"class5": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class6": 1,
+				"class8": 2
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class1": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class5": 2,
+				"class4": 1,
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class4": 2,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class4": 1,
+				"class2": 2
+			},
+			"南京市芳草园小学": {
+				"class5": 3,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市拉萨路小学": {
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class6": 2,
+				"class9": 1
+			}
+		},
+		"class4": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class5": 1,
+				"class4": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class4": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class7": 2,
+				"class5": 2,
+				"class3": 1,
+				"class10": 2,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 2,
+				"class8": 2
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class10": 1,
+				"class1": 3,
+				"class9": 2
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 2,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 2,
+				"class6": 1,
+				"class5": 1,
+				"class2": 2,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			}
+		},
+		"class3": {
+			"南京市师范附属小学": {
+				"class6": 2,
+				"class5": 1,
+				"class3": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class3": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class4": 2,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 2,
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 2,
+				"class4": 1,
+				"class3": 1,
+				"class1": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 2
+			},
+			"南京市雨花外国语小学": {
+				"class4": 1,
+				"class10": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 2,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			}
+		},
+		"class2": {
+			"南京市师范附属小学": {
+				"class5": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 2,
+				"class3": 1,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class4": 1,
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 2,
+				"class2": 2,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class6": 2,
+				"class2": 1
+			},
+			"南京市芳草园小学": {
+				"class4": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 2,
+				"class6": 1,
+				"class5": 1,
+				"class10": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class5": 2,
+				"class4": 1,
+				"class2": 1,
+				"class10": 3,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class10": 2
+			}
+		},
+		"class10": {
+			"南京市师范附属小学": {
+				"class5": 1,
+				"class4": 1,
+				"class10": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class1": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class5": 3,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class4": 2,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class7": 2,
+				"class6": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 3,
+				"class2": 1,
+				"class8": 2
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 2,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class4": 1,
+				"class9": 1
+			}
+		},
+		"class1": {
+			"南京市师范附属小学": {
+				"class7": 2,
+				"class4": 1,
+				"class8": 2
+			},
+			"南京市琅琊路小学": {
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 2,
+				"class4": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class6": 2,
+				"class5": 1,
+				"class3": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 2,
+				"class5": 2,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class5": 1,
+				"class4": 2,
+				"class3": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 2,
+				"class3": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class4": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class3": 1,
+				"class2": 1,
+				"class8": 1
+			}
+		},
+		"class9": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class4": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class1": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class2": 2,
+				"class10": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class5": 2,
+				"class4": 1,
+				"class10": 2,
+				"class1": 1,
+				"class9": 1,
+				"class8": 3
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class10": 2,
+				"class8": 2
+			},
+			"南京市赤壁路小学": {
+				"class5": 1,
+				"class4": 2
+			},
+			"南京市拉萨路小学": {
+				"class2": 1,
+				"class10": 2,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 2,
+				"class6": 2,
+				"class3": 2,
+				"class10": 2,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class4": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			}
+		},
+		"class8": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class6": 2,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class1": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class2": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class9": 1,
+				"class8": 3
+			},
+			"南京市芳草园小学": {
+				"class4": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class3": 2,
+				"class2": 1,
+				"class8": 2
+			},
+			"南京市雨花外国语小学": {
+				"class4": 1,
+				"class2": 1,
+				"class8": 2
+			},
+			"南京市南外仙林小学": {
+				"class4": 2,
+				"class3": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 2
+			}
+		}
+	},
+	"南京外国语学校": {
+		"class7": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1,
+				"class10": 1,
+				"class1": 1,
+				"class8": 2
+			},
+			"南京市琅琊路小学": {
+				"class5": 2,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 2,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 2,
+				"class6": 1,
+				"class4": 1,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class10": 1,
+				"class1": 2
+			},
+			"南京市雨花外国语小学": {
+				"class4": 1,
+				"class3": 1,
+				"class9": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class10": 1
+			}
+		},
+		"class6": {
+			"南京市师范附属小学": {
+				"class3": 2,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 2,
+				"class3": 1,
+				"class2": 1,
+				"class10": 2
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class10": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class3": 4,
+				"class1": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 2,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 2,
+				"class4": 2,
+				"class2": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class4": 1,
+				"class9": 1,
+				"class8": 1
+			}
+		},
+		"class5": {
+			"南京市师范附属小学": {
+				"class5": 1,
+				"class3": 2,
+				"class2": 1,
+				"class10": 1,
+				"class1": 2
+			},
+			"南京市琅琊路小学": {
+				"class6": 3,
+				"class4": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class4": 1,
+				"class2": 2,
+				"class1": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class2": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class3": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 2,
+				"class6": 2,
+				"class5": 1,
+				"class4": 1,
+				"class2": 3,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class3": 1,
+				"class2": 2,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class9": 1
+			}
+		},
+		"class4": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class3": 2,
+				"class1": 2,
+				"class10": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class8": 2
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class6": 2,
+				"class2": 1,
+				"class8": 3
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 2,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			}
+		},
+		"class3": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 3,
+				"class2": 2,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class1": 1,
+				"class10": 2
+			},
+			"南京市长江路小学": {
+				"class2": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class4": 2,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class10": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class2": 1,
+				"class1": 2,
+				"class10": 1,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 1,
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1
+			}
+		},
+		"class2": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class3": 1,
+				"class2": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 2,
+				"class6": 1,
+				"class5": 2,
+				"class4": 1,
+				"class3": 2,
+				"class2": 1,
+				"class10": 1,
+				"class1": 2,
+				"class9": 3,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class7": 2,
+				"class6": 2,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class3": 1,
+				"class2": 2,
+				"class1": 2
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class3": 1,
+				"class8": 1
+			}
+		},
+		"class10": {
+			"南京市师范附属小学": {
+				"class5": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class4": 2,
+				"class3": 1,
+				"class10": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class6": 2,
+				"class4": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class5": 2,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class4": 1,
+				"class3": 2,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class3": 1,
+				"class1": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 2,
+				"class4": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class6": 1,
+				"class8": 1
+			}
+		},
+		"class1": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class6": 3,
+				"class5": 1,
+				"class1": 1,
+				"class10": 2
+			},
+			"南京市琅琊路小学": {
+				"class7": 2,
+				"class5": 1,
+				"class4": 2,
+				"class2": 1,
+				"class8": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 2,
+				"class6": 1,
+				"class4": 2,
+				"class2": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class10": 2,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市芳草园小学": {
+				"class6": 2,
+				"class4": 1,
+				"class2": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 2
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1
+			}
+		},
+		"class9": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 3,
+				"class10": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class10": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class4": 1,
+				"class3": 1,
+				"class1": 1
+			},
+			"南京市长江路小学": {
+				"class2": 2,
+				"class1": 2,
+				"class9": 1,
+				"class8": 3
+			},
+			"南京市芳草园小学": {
+				"class3": 1,
+				"class2": 1,
+				"class8": 2
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class10": 1,
+				"class1": 1,
+				"class9": 3
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 2
+			},
+			"南京市雨花外国语小学": {
+				"class3": 1,
+				"class1": 1,
+				"class10": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class5": 1,
+				"class1": 2,
+				"class10": 1,
+				"class9": 1
+			}
+		},
+		"class8": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class4": 3,
+				"class3": 2,
+				"class2": 1,
+				"class1": 2,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 2,
+				"class5": 1,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class5": 2,
+				"class4": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class4": 1,
+				"class3": 2,
+				"class2": 1,
+				"class1": 2,
+				"class9": 2
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class10": 2
+			},
+			"南京市南外仙林小学": {
+				"class2": 1,
+				"class1": 2
+			}
+		}
+	},
+	"南京市育英第二外国语学校": {
+		"class7": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class2": 1
+			},
+			"南京市琅琊路小学": {
+				"class4": 1,
+				"class1": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 2,
+				"class3": 1,
+				"class2": 1,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class1": 1,
+				"class10": 2
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class4": 3,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class5": 2,
+				"class4": 1,
+				"class10": 2
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class1": 2
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 3,
+				"class5": 1,
+				"class9": 2
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class2": 1,
+				"class9": 3,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class3": 1
+			}
+		},
+		"class6": {
+			"南京市师范附属小学": {
+				"class3": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class5": 2,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1
+			},
+			"南京市长江路小学": {
+				"class7": 2,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class3": 1,
+				"class2": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class3": 1,
+				"class2": 1,
+				"class1": 2,
+				"class10": 2,
+				"class8": 3
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class2": 1,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 2,
+				"class4": 2,
+				"class3": 1,
+				"class2": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class6": 3,
+				"class5": 1,
+				"class2": 2,
+				"class10": 1,
+				"class9": 2,
+				"class8": 1
+			}
+		},
+		"class5": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 2,
+				"class6": 1,
+				"class4": 2,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class4": 2,
+				"class1": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 2,
+				"class8": 2
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class10": 1
+			},
+			"南京市力学小学": {
+				"class7": 2,
+				"class6": 1,
+				"class3": 1,
+				"class2": 2,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class5": 2,
+				"class4": 1,
+				"class2": 1,
+				"class1": 2,
+				"class9": 2
+			},
+			"南京市雨花外国语小学": {
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class8": 1
+			}
+		},
+		"class4": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class3": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 2,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市长江路小学": {
+				"class7": 2,
+				"class6": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class3": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class3": 3,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 2,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 2,
+				"class5": 1,
+				"class4": 1,
+				"class1": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 2,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class6": 2,
+				"class5": 1,
+				"class3": 1,
+				"class1": 1,
+				"class9": 2,
+				"class8": 1
+			}
+		},
+		"class3": {
+			"南京市师范附属小学": {
+				"class5": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class4": 1,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 3
+			},
+			"南京市芳草园小学": {
+				"class4": 1,
+				"class3": 2,
+				"class2": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 3
+			},
+			"南京市拉萨路小学": {
+				"class7": 2,
+				"class5": 2
+			},
+			"南京市雨花外国语小学": {
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class1": 1,
+				"class10": 2,
+				"class9": 3
+			}
+		},
+		"class2": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 2,
+				"class4": 1,
+				"class3": 2
+			},
+			"南京市琅琊路小学": {
+				"class3": 2,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 2,
+				"class4": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class4": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class4": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1
+			},
+			"南京市力学小学": {
+				"class6": 2,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市拉萨路小学": {
+				"class5": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市雨花外国语小学": {
+				"class6": 2,
+				"class4": 2,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class4": 1,
+				"class3": 1,
+				"class10": 1,
+				"class9": 2
+			}
+		},
+		"class10": {
+			"南京市师范附属小学": {
+				"class3": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class2": 2,
+				"class10": 1,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 2
+			},
+			"南京市长江路小学": {
+				"class5": 2
+			},
+			"南京市赤壁路小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class4": 2,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 2
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 2,
+				"class10": 1,
+				"class9": 1,
+				"class8": 2
+			}
+		},
+		"class1": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class5": 1
+			},
+			"南京市琅琊路小学": {
+				"class4": 1,
+				"class3": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 2,
+				"class6": 1,
+				"class3": 2,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市赤壁路小学": {
+				"class6": 2,
+				"class4": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class4": 2,
+				"class9": 2
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class4": 3,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class4": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			}
+		},
+		"class9": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class4": 3,
+				"class2": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class10": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 2,
+				"class8": 3
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1,
+				"class10": 2,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 2,
+				"class6": 2,
+				"class5": 1,
+				"class3": 1,
+				"class10": 2
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class9": 2
+			},
+			"南京市雨花外国语小学": {
+				"class4": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			}
+		},
+		"class8": {
+			"南京市师范附属小学": {
+				"class10": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class2": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class6": 2,
+				"class5": 2,
+				"class10": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 2,
+				"class4": 2,
+				"class3": 1,
+				"class2": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class1": 1,
+				"class8": 2
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class5": 2,
+				"class4": 1,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 2
+			}
+		}
+	},
+	"南京市金陵汇文学校": {
+		"class7": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class4": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 2,
+				"class4": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 2,
+				"class5": 2,
+				"class4": 2,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class4": 1,
+				"class3": 1,
+				"class10": 2,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class2": 2,
+				"class1": 2
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class5": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 2,
+				"class6": 1,
+				"class1": 2,
+				"class8": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 2,
+				"class4": 1,
+				"class1": 1,
+				"class10": 2,
+				"class9": 1
+			}
+		},
+		"class6": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class5": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class3": 2,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class6": 3,
+				"class4": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class10": 2,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class5": 2,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class3": 1,
+				"class2": 1
+			}
+		},
+		"class5": {
+			"南京市师范附属小学": {
+				"class3": 1,
+				"class2": 2,
+				"class10": 1,
+				"class9": 3,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class2": 1,
+				"class1": 2,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class4": 4,
+				"class2": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class8": 2
+			},
+			"南京市力学小学": {
+				"class3": 2,
+				"class2": 1
+			},
+			"南京市拉萨路小学": {
+				"class5": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class2": 2,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1
+			}
+		},
+		"class4": {
+			"南京市师范附属小学": {
+				"class4": 2,
+				"class2": 3,
+				"class10": 1,
+				"class8": 2
+			},
+			"南京市琅琊路小学": {
+				"class7": 2,
+				"class5": 1,
+				"class9": 3
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class3": 1
+			},
+			"南京市赤壁路小学": {
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class9": 2
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class4": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 2,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 2,
+				"class5": 1,
+				"class1": 2,
+				"class9": 2
+			}
+		},
+		"class3": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class5": 2,
+				"class4": 1,
+				"class3": 2,
+				"class1": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class5": 1,
+				"class9": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class4": 2,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class4": 2,
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市力学小学": {
+				"class2": 1,
+				"class1": 1,
+				"class8": 3
+			},
+			"南京市赤壁路小学": {
+				"class4": 1,
+				"class10": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class5": 1,
+				"class4": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class3": 2,
+				"class2": 1,
+				"class1": 1,
+				"class9": 2,
+				"class8": 2
+			}
+		},
+		"class2": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class3": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class5": 2,
+				"class4": 2,
+				"class3": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 2,
+				"class5": 1,
+				"class3": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 2,
+				"class1": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class4": 2,
+				"class3": 1,
+				"class10": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class3": 2,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class10": 1,
+				"class8": 1
+			}
+		},
+		"class10": {
+			"南京市师范附属小学": {
+				"class7": 2,
+				"class2": 2,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 5,
+				"class4": 1,
+				"class10": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class3": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class6": 2,
+				"class5": 2,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class5": 1,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 2,
+				"class5": 1,
+				"class4": 2,
+				"class3": 1,
+				"class9": 1
+			}
+		},
+		"class1": {
+			"南京市师范附属小学": {
+				"class7": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 2,
+				"class10": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class2": 1,
+				"class1": 1,
+				"class9": 3,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class4": 1,
+				"class10": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 3,
+				"class4": 2,
+				"class3": 2,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市雨花外国语小学": {
+				"class3": 2,
+				"class2": 3,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市南外仙林小学": {
+				"class5": 1,
+				"class10": 2,
+				"class9": 1,
+				"class8": 1
+			}
+		},
+		"class9": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class4": 2,
+				"class1": 2,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class4": 3,
+				"class3": 1,
+				"class1": 1,
+				"class10": 3
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class10": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class3": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class10": 1
+			},
+			"南京市赤壁路小学": {
+				"class4": 1,
+				"class3": 1,
+				"class2": 2,
+				"class1": 1
+			},
+			"南京市力学小学": {
+				"class4": 3,
+				"class3": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class4": 1
+			},
+			"南京市雨花外国语小学": {
+				"class3": 1,
+				"class2": 2,
+				"class1": 2,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class4": 2,
+				"class3": 1,
+				"class2": 2,
+				"class1": 1,
+				"class10": 2
+			}
+		},
+		"class8": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class3": 3,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class5": 2,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1
+			},
+			"南京市长江路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 2
+			},
+			"南京市赤壁路小学": {
+				"class7": 3,
+				"class4": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 2,
+				"class5": 1
+			},
+			"南京市力学小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class3": 2,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class8": 2
+			},
+			"南京市南外仙林小学": {
+				"class3": 1,
+				"class2": 2,
+				"class1": 1,
+				"class8": 1
+			}
+		}
+	},
+	"南京师范大学附属中学新城初级中学": {
+		"class7": {
+			"南京市师范附属小学": {
+				"class6": 2,
+				"class3": 1,
+				"class1": 1,
+				"class10": 2,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class3": 2,
+				"class10": 1,
+				"class1": 2,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class2": 1,
+				"class10": 1,
+				"class9": 3
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市芳草园小学": {
+				"class5": 2,
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 2,
+				"class3": 1,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class5": 1,
+				"class2": 2,
+				"class10": 1,
+				"class9": 1
+			}
+		},
+		"class6": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class2": 2,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市长江路小学": {
+				"class4": 2,
+				"class3": 1,
+				"class1": 2,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class4": 2,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class5": 2,
+				"class3": 3,
+				"class2": 1,
+				"class10": 1,
+				"class8": 2
+			},
+			"南京市拉萨路小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 2,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class5": 1
+			}
+		},
+		"class5": {
+			"南京市师范附属小学": {
+				"class4": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class5": 1,
+				"class2": 1,
+				"class1": 2,
+				"class8": 3
+			},
+			"南京市长江路小学": {
+				"class4": 2,
+				"class3": 1,
+				"class2": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 2,
+				"class4": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class5": 2,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class10": 2,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class5": 3,
+				"class3": 2,
+				"class2": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class3": 2
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class5": 2,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 2
+			}
+		},
+		"class4": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 2,
+				"class2": 1,
+				"class1": 3,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class2": 1,
+				"class1": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 2,
+				"class2": 2,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class1": 2,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class6": 2,
+				"class4": 1
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class5": 3,
+				"class1": 2,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			}
+		},
+		"class3": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class6": 2,
+				"class1": 1,
+				"class10": 1,
+				"class9": 2,
+				"class8": 2
+			},
+			"南京市琅琊路小学": {
+				"class4": 1,
+				"class10": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class5": 1,
+				"class2": 1,
+				"class10": 1
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class3": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class5": 2,
+				"class2": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class2": 1,
+				"class1": 1,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class5": 1,
+				"class3": 1,
+				"class10": 1,
+				"class8": 2
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class5": 2,
+				"class4": 2,
+				"class3": 1,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 1
+			}
+		},
+		"class2": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class9": 1
+			},
+			"南京市琅琊路小学": {
+				"class5": 2,
+				"class2": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class7": 2,
+				"class3": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class5": 3,
+				"class4": 1,
+				"class3": 2,
+				"class10": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class5": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 2,
+				"class6": 1,
+				"class5": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 2,
+				"class10": 1,
+				"class1": 2
+			}
+		},
+		"class10": {
+			"南京市师范附属小学": {
+				"class7": 1,
+				"class4": 2,
+				"class3": 1,
+				"class2": 2,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class6": 1,
+				"class2": 2,
+				"class8": 2
+			},
+			"南京市鼓楼第一中心小学": {
+				"class3": 1
+			},
+			"南京市长江路小学": {
+				"class5": 1,
+				"class3": 2,
+				"class9": 1
+			},
+			"南京市力学小学": {
+				"class7": 1,
+				"class4": 1,
+				"class10": 1,
+				"class8": 2
+			},
+			"南京市芳草园小学": {
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 2,
+				"class6": 2,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class4": 1,
+				"class3": 1,
+				"class8": 3
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class5": 2,
+				"class4": 1,
+				"class10": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 2
+			}
+		},
+		"class1": {
+			"南京市师范附属小学": {
+				"class7": 2,
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 1,
+				"class10": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class2": 2,
+				"class1": 1,
+				"class8": 2
+			},
+			"南京市长江路小学": {
+				"class4": 1,
+				"class3": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class2": 1,
+				"class1": 1,
+				"class10": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 2,
+				"class3": 1,
+				"class10": 2,
+				"class1": 2,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class4": 2,
+				"class2": 1,
+				"class10": 1,
+				"class8": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class9": 2,
+				"class8": 1
+			},
+			"南京市南外仙林小学": {
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 1,
+				"class8": 1
+			}
+		},
+		"class9": {
+			"南京市师范附属小学": {
+				"class3": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class1": 1,
+				"class9": 1,
+				"class8": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class4": 1,
+				"class3": 1,
+				"class8": 2
+			},
+			"南京市长江路小学": {
+				"class7": 2,
+				"class6": 1,
+				"class2": 1,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市力学小学": {
+				"class4": 1,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class2": 1,
+				"class10": 1,
+				"class1": 1,
+				"class9": 1
+			},
+			"南京市芳草园小学": {
+				"class7": 1,
+				"class3": 1,
+				"class1": 1,
+				"class10": 1,
+				"class9": 1
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class6": 1,
+				"class4": 2,
+				"class3": 1,
+				"class10": 1,
+				"class1": 1
+			},
+			"南京市雨花外国语小学": {
+				"class6": 1,
+				"class4": 1,
+				"class3": 1,
+				"class2": 1,
+				"class9": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 2,
+				"class9": 2,
+				"class8": 2
+			}
+		},
+		"class8": {
+			"南京市师范附属小学": {
+				"class6": 1,
+				"class10": 1,
+				"class1": 1,
+				"class8": 1
+			},
+			"南京市琅琊路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class10": 1
+			},
+			"南京市鼓楼第一中心小学": {
+				"class6": 1,
+				"class4": 1,
+				"class2": 1,
+				"class1": 3,
+				"class9": 1,
+				"class8": 2
+			},
+			"南京市长江路小学": {
+				"class7": 1,
+				"class4": 1,
+				"class2": 2,
+				"class10": 1,
+				"class1": 2,
+				"class8": 1
+			},
+			"南京市赤壁路小学": {
+				"class6": 1,
+				"class1": 1,
+				"class10": 2,
+				"class8": 1
+			},
+			"南京市力学小学": {
+				"class5": 1,
+				"class1": 1
+			},
+			"南京市芳草园小学": {
+				"class6": 2,
+				"class5": 1,
+				"class3": 2,
+				"class1": 2
+			},
+			"南京市拉萨路小学": {
+				"class7": 1,
+				"class5": 2,
+				"class4": 1,
+				"class2": 2
+			},
+			"南京市雨花外国语小学": {
+				"class7": 1,
+				"class5": 1,
+				"class3": 1,
+				"class1": 1
+			},
+			"南京市南外仙林小学": {
+				"class7": 1,
+				"class8": 1
+			}
+		}
+	}
+}
