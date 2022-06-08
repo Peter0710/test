@@ -82,7 +82,7 @@ public class MainClass {
             writer.merge(v.size() - 1, k);
             writer.write(CollUtil.newArrayList(v), true);
         });
-        writer.setSheet("学生统计分布");
+        writer.setSheet("学生统计分布-----------");
         middleStudentDistribution.forEach((k, v) ->{
             writer.merge(v.size() - 1, k);
             v.forEach((a,b) ->{
