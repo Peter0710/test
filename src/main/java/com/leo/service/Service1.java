@@ -13,7 +13,7 @@ public class Service1 {
     private static File outFile = new File("result1.txt");
 
     public static void middleStudentAverage(List<MiddleStudent> middleStudentList ){
-        //统计各个中学各班级的中考平均分
+        //统计各个中学各班级的中考平均分ooooooooo
         Map<String, Map<String, Double>> middleStudentAverage = middleStudentList.stream().collect(
                 Collectors.groupingBy(MiddleStudent::getSchool, Collectors.groupingBy(MiddleStudent::getClassInfo, Collectors.averagingInt(MiddleStudent::getScore))));
         Writer out;

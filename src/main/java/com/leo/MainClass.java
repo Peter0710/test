@@ -77,12 +77,12 @@ public class MainClass {
             writer.merge(v.size() - 1, k);
             writer.write(CollUtil.newArrayList(v), true);
         });
-        writer.setSheet("小学各班级的中考平均分");
+        writer.setSheet("小学各班级的中考平均分123");
         primaryStudentAverage.forEach((k,v) ->{
             writer.merge(v.size() - 1, k);
             writer.write(CollUtil.newArrayList(v), true);
         });
-        writer.setSheet("学生统计分布-----------");
+        writer.setSheet("学生统计分布-----------123");
         middleStudentDistribution.forEach((k, v) ->{
             writer.merge(v.size() - 1, k);
             v.forEach((a,b) ->{
@@ -93,14 +93,14 @@ public class MainClass {
                 });
             });
         });
-        writer.setSheet("同校");
+        writer.setSheet("同校123");
         writer.write(CollUtil.newArrayList(duplicateSchool));
-        writer.setSheet("同校且同班");
+        writer.setSheet("同校且同班123");
         writer.write(CollUtil.newArrayList(duplicateSchoolAndClass));
         writer.close();
         System.out.println("test");
-        System.out.println("朱阿敏大笨蛋");
-        System.out.println("刘振鹏");
+        System.out.println("朱阿敏大笨蛋123");
+        System.out.println("刘振鹏123");
     }
 
 }
