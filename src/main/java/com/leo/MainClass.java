@@ -98,6 +98,9 @@ public class MainClass {
         writer.setSheet("同校且同班");
         writer.write(CollUtil.newArrayList(duplicateSchoolAndClass));
         writer.close();
+        System.out.println("test");
+        System.out.println("朱阿敏大笨蛋");
+        System.out.println("刘振鹏");
     }
 
 }
