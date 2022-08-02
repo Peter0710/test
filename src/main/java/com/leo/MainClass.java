@@ -101,6 +101,7 @@ public class MainClass {
         System.out.println("test");
         System.out.println("朱阿敏大笨蛋123");
         System.out.println("刘振鹏123");
+        System.out.println("a");
     }
 
 }
